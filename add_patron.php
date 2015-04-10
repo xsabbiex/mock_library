@@ -32,9 +32,9 @@
 
     	$email = $_POST["email"];
 
-		$birth_year = $_POST["birth_year"];
+	$birth_year = $_POST["birth_year"];
 
-		$city = $_POST['city'];
+	$city = $_POST['city'];
 
         $user_name = $_POST['userid'];
 
